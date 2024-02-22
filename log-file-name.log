@@ -1,0 +1,96 @@
+[local_log local_log:19]
+	 I am writing to file .log.  
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log local_log:19]
+	 I am writing to file .log.  
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.03904557228088379 
+
+[local_log local_log:19]
+	 I am writing to file .log.  
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.006551980972290039 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.0005197525024414062 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.0005183219909667969 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.0009996891021728516 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.0010013580322265625 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.0010013580322265625 
+
+[local_log local_log:19]
+	 I am writing to file .log.  
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.007054328918457031 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.018960237503051758 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.04098248481750488 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.019891977310180664 
+
+[local_log middieware:24]
+	 Client IP: 127.0.0.1 
+
+[local_log main:32]
+	 Time: 0.02045297622680664 
+
